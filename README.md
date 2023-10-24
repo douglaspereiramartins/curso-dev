@@ -1,3 +1,3 @@
-# curso-dev
+# Trading Signal
 
-Implementaçao do tab news
+Website to exchange trading information
